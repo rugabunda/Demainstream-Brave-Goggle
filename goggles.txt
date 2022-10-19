@@ -1,7 +1,7 @@
 ! name: less from everything
 ! description: less news from the major outlets and less results from big companies
-! public: false
-! author: New Internet For Everybody
+! public: true
+! author: ego
 
 $discard,site=nytimes.com
 $discard,site=vox.com

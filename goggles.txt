@@ -1,5 +1,5 @@
 ! name: Better results
-! description: Excludes major news-outlets and major tech-companies that usually dominate the search-results. If you have tips, send to dontknowit@gmail.com 
+! description: Excludes major news-outlets and major tech-companies that usually dominate the search-results. If you have tips for similar sites, send them to dontknowit@gmail.com 
 ! public: true
 ! author: Brahim Abdellaoui
 

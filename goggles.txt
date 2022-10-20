@@ -1,7 +1,7 @@
-! name: less from everything
-! description: less news from the major outlets and less results from big companies
+! name: Better results
+! description: Excludes major news-outlets and major tech-companies that usually dominate the search-results. If you have tips, send to dontknowit@gmail.com 
 ! public: true
-! author: ego
+! author: Brahim Abdellaoui
 
 $discard,site=nytimes.com
 $discard,site=vox.com

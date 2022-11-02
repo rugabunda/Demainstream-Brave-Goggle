@@ -406,6 +406,8 @@ $discard,site=youtube.com
 $discard,site=zhihu.com
 
 $discard,site=adl.org
+$discard,site=splcenter.org
+$discard,site=antihate.ca
 $discard,site=myjewishlearning.com
 $discard,site=jewishvirtuallibrary.org 
 $discard,site=jwa.org

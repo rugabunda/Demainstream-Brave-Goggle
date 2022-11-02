@@ -407,6 +407,7 @@ $discard,site=myjewishlearning.com
 $discard,site=jewishvirtuallibrary.org 
 $discard,site=jwa.org
 $discard,site=jstor.org
+$discard,site=chabad.org
 
 $boost=2,site=rumble.com
 $boost=2,site=bitchute.com

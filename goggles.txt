@@ -3,7 +3,7 @@
 ! public: true
 ! author: True News
 
-
+$discard,site=amazon.ca
 $discard,site=trtworld.com
 $discard,site=theamericanconservative.com
 $discard,site=thehill.com

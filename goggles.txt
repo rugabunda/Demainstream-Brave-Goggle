@@ -408,9 +408,9 @@ $discard,site=jewishvirtuallibrary.org
 $discard,site=jwa.org
 $discard,site=jstor.org
 
-$boost=3,site=rumble.com
-$boost=3,site=bitchute.com
-$boost=3,site=odysee.com
+$boost=2,site=rumble.com
+$boost=2,site=bitchute.com
+$boost=2,site=odysee.com
 $boost=2,site=gab.com
 $boost=2,site=rt.com
 $boost=2,site=unz.com

@@ -16,7 +16,6 @@ $discard,site=aim.org
 $discard,site=ajc.com
 $discard,site=ajplus.net
 $discard,site=aliexpress.com
-$discard,site=aljazeera.com
 $discard,site=alternet.org
 $discard,site=amazon.com
 $discard,site=amazon.in

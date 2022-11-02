@@ -3,6 +3,8 @@
 ! public: true
 ! author: True News
 
+
+$discard,site=goodreads.com
 $discard,site=abc.net.au
 $discard,site=aaplimg.com
 $discard,site=abcnews.com

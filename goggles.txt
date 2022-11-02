@@ -3,7 +3,7 @@
 ! public: true
 ! author: True News
 
- $discard,site=abc.net.au
+$discard,site=abc.net.au
 $discard,site=aaplimg.com
 $discard,site=abcnews.com
 $discard,site=abcnews.go.com
@@ -12,8 +12,6 @@ $discard,site=aim.org
 $discard,site=ajc.com
 $discard,site=ajplus.net
 $discard,site=aliexpress.com
-$discard,site=aljazeera.com
-$discard,site=aljazeera.net
 $discard,site=alternet.org
 $discard,site=ama-assn.org
 $discard,site=amazon.ca
@@ -36,7 +34,6 @@ $discard,site=atlasnetwork.org
 $discard,site=atlasone.org
 $discard,site=att.com
 $discard,site=azure.com
-$discard,site=babylonbee.com
 $discard,site=baidu.com
 $discard,site=bbc.co.uk
 $discard,site=bbc.com
@@ -411,6 +408,9 @@ $discard,site=jewishvirtuallibrary.org
 $discard,site=jwa.org
 $discard,site=jstor.org
 
+$boost=3,site=rumble.com
+$boost=3,site=bitchute.com
+$boost=3,site=odysee.com
 $boost=2,site=gab.com
 $boost=2,site=rt.com
 $boost=2,site=unz.com
@@ -430,7 +430,55 @@ $boost=2,site=asiatimes.com
 $boost=2,site=thecountersignal.org
 $boost=2,site=rebelnews.com
 $boost=2,site=thegatewaypundit.com
-$boost=3,site=rumble.com
-$boost=3,site=bitchute.com
-$boost=3,site=odysee.com
+$boost=2,site=dailystormer.in
+$boost=2,site=christiansfortruth.com
+$boost=2,site=21stcenturywire.com
+$boost=2,site=activistpost.com
+$boost=2,site=allsides.com
+$boost=2,site=beforeitsnews.com
+$boost=2,site=bretweinstein.net
+$boost=2,site=childrenshealthdefense.org
+$boost=2,site=citizenfreepress.com
+$boost=2,site=civilianintelligencenetwork.ca
+$boost=2,site=consciouslifenews.com
+$boost=2,site=consortiumnews.com
+$boost=2,site=corbettreport.com
+$boost=2,site=davidicke.com
+$boost=2,site=educateinspirechange.org
+$boost=2,site=greenmedinfo.com
+$boost=2,site=humansbefree.com
+$boost=2,site=mediaroots.org
+$boost=2,site=motherjones.com
+$boost=2,site=newsbud.com
+$boost=2,site=off-guardian.org
+$boost=2,site=pressfortruth.ca
+$boost=2,site=projectveritas.com
+$boost=2,site=propublica.org
+$boost=2,site=realclearhealth.com
+$boost=2,site=revealnews.org
+$boost=2,site=revolution.news
+$boost=2,site=richieallen.co.uk
+$boost=2,site=rubinreport.com
+$boost=2,site=sciencebasedmedicine.org
+$boost=2,site=shift.is
+$boost=2,site=shtfplan.com
+$boost=2,site=stormcloudsgathering.com
+$boost=2,site=theepochtimes.com
+$boost=2,site=thefreethoughtproject.com
+$boost=2,site=thelastamericanvagabond.com
+$boost=2,site=themindunleashed.org
+$boost=2,site=thespiritscience.net
+$boost=2,site=thrive-living.net
+$boost=2,site=trueactivist.com
+$boost=2,site=truthinmedia.com
+$boost=2,site=truthout.org
+$boost=2,site=truthstreammedia.com
+$boost=2,site=usabeat.org
+$boost=2,site=veteranstoday.com
+$boost=2,site=wakeup-world.com
+$boost=2,site=wakingtimes.com
+$boost=2,site=wearechange.org
+$boost=2,site=whowhatwhy.org
+/r/conspiracy/$boost=3,site=www.reddit.com
+
 

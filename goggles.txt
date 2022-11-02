@@ -405,11 +405,14 @@ $discard,site=youtu.be
 $discard,site=youtube.com
 $discard,site=zhihu.com
 
+$discard,site=adl.org
 $discard,site=myjewishlearning.com
 $discard,site=jewishvirtuallibrary.org 
 $discard,site=jwa.org
 $discard,site=jstor.org
 $discard,site=chabad.org
+$discard,site=kabbalah.info
+
 
 $boost=2,site=rumble.com
 $boost=2,site=bitchute.com

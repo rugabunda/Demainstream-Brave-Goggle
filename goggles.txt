@@ -2,7 +2,11 @@
 ! public: true
 ! author: True News
 
-
+$discard,site=trtworld.com
+$discard,site=theamericanconservative.com
+$discard,site=thehill.com
+$discard,site=npr.org
+$discard,site=forward.com
 $discard,site=aaplimg.com
 $discard,site=abcnews.go.com
 $discard,site=adobe.com
@@ -317,3 +321,26 @@ $discard,site=myjewishlearning.com
 $discard,site=jewishvirtuallibrary.org 
 $discard,site=jwa.org
 $discard,site=jstor.org
+
+$boost=2,site=rt.com
+$boost=2,site=unz.com
+$boost=2,site=presstv.ir
+$boost=2,site=sputniknews.com
+$boost=2,site=whatreallyhappened.com
+$boost=2,site=tnc.news
+$boost=2,site=trunews.com
+$boost=2,site=thesaker.is
+$boost=2,site=reclaimthenet.org
+$boost=2,site=antiwar.com
+$boost=2,site=tass.com
+$boost=2,site=southfront.org
+$boost=2,site=globalresearch.ca
+$boost=2,site=naturalnews.com
+$boost=2,site=asiatimes.com
+$boost=2,site=thecountersignal.org
+$boost=2,site=rebelnews.com
+$boost=2,site=thegatewaypundit.com
+$boost=3,site=rumble.com
+$boost=3,site=bitchute.com
+$boost=3,site=odysee.com
+

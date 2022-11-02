@@ -4,6 +4,7 @@
 ! author: True News
 
 
+$discard,site=thetimes.co.uk
 $discard,site=goodreads.com
 $discard,site=abc.net.au
 $discard,site=aaplimg.com

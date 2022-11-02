@@ -324,6 +324,7 @@ $discard,site=jewishvirtuallibrary.org
 $discard,site=jwa.org
 $discard,site=jstor.org
 
+$boost=2,site=gab.com
 $boost=2,site=rt.com
 $boost=2,site=unz.com
 $boost=2,site=presstv.ir

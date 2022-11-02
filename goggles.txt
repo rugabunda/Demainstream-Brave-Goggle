@@ -415,6 +415,7 @@ $discard,site=jwa.org
 $discard,site=jstor.org
 $discard,site=chabad.org
 $discard,site=kabbalah.info
+$discard,site=holocaustremembrance.com
 
 
 $boost=2,site=rumble.com

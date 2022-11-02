@@ -1,6 +1,8 @@
 ! name: Better results
+! description: de-mainstream your search results
 ! public: true
 ! author: True News
+
 
 $discard,site=trtworld.com
 $discard,site=theamericanconservative.com

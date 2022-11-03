@@ -3,6 +3,7 @@
 ! public: true
 ! author: Ruga Bunda
 
+$discard,site=quora.com
 $discard,site=aaplimg.com
 $discard,site=abc.net.au
 $discard,site=abcnews.com

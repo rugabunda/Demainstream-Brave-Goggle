@@ -1,15 +1,13 @@
 ! name: De-Mainstream
-! description: de-mainstream your search results
+! description: de-mainstream your search results | Boost Alt-News
 ! public: true
 ! author: True News
 
-
-$discard,site=thetimes.co.uk
-$discard,site=goodreads.com
-$discard,site=abc.net.au
 $discard,site=aaplimg.com
+$discard,site=abc.net.au
 $discard,site=abcnews.com
 $discard,site=abcnews.go.com
+$discard,site=adl.org
 $discard,site=adobe.com
 $discard,site=aim.org
 $discard,site=ajc.com
@@ -28,6 +26,7 @@ $discard,site=americanthinker.com
 $discard,site=amgreatness.com
 $discard,site=ammo.com
 $discard,site=a-msedge.net
+$discard,site=antihate.ca
 $discard,site=apache.org
 $discard,site=apnews.com
 $discard,site=apple.com
@@ -75,6 +74,7 @@ $discard,site=cbsnews.com
 $discard,site=cdc.gov
 $discard,site=centralkynews.com
 $discard,site=cfr.org
+$discard,site=chabad.org
 $discard,site=chicago.suntimes.com
 $discard,site=chicagotribune.com
 $discard,site=christianitytoday.com
@@ -155,6 +155,7 @@ $discard,site=gandi.net
 $discard,site=georgiastarnews.com
 $discard,site=gizmodo.com
 $discard,site=goo.gl
+$discard,site=goodreads.com
 $discard,site=google.com
 $discard,site=google-analytics.com
 $discard,site=googledomains.com
@@ -169,6 +170,7 @@ $discard,site=herald-dispatch.com
 $discard,site=heritage.org
 $discard,site=hhs.gov
 $discard,site=hollywoodreporter.com
+$discard,site=holocaustremembrance.com
 $discard,site=hopkinsmedicine.org
 $discard,site=hotair.com
 $discard,site=house.gov
@@ -187,8 +189,12 @@ $discard,site=investors.com
 $discard,site=iowatorch.com
 $discard,site=jacobinmag.com
 $discard,site=jamanetwork.com
+$discard,site=jewishvirtuallibrary.org 
 $discard,site=jezebel.com
+$discard,site=jstor.org
 $discard,site=judicialwatch.org
+$discard,site=jwa.org
+$discard,site=kabbalah.info
 $discard,site=ksl.com
 $discard,site=lasvegassun.com
 $discard,site=latimes.com
@@ -216,6 +222,7 @@ $discard,site=mises.org
 $discard,site=mrc.org
 $discard,site=msn.com
 $discard,site=msnbc.com
+$discard,site=myjewishlearning.com
 $discard,site=mystatesman.com
 $discard,site=nationalgeographic.com
 $discard,site=nationalpost.com
@@ -299,6 +306,7 @@ $discard,site=s-nbcnews.com
 $discard,site=socialistalternative.org
 $discard,site=spectator.org
 $discard,site=splcenter.org
+$discard,site=splcenter.org
 $discard,site=spokesman.com
 $discard,site=startribune.com
 $discard,site=state.gov
@@ -339,6 +347,7 @@ $discard,site=theonion.com
 $discard,site=thepostmillennial.com
 $discard,site=theresurgent.com
 $discard,site=thetexan.news
+$discard,site=thetimes.co.uk
 $discard,site=theverge.com
 $discard,site=theweek.com
 $discard,site=thinkprogress.org
@@ -405,17 +414,6 @@ $discard,site=yandex.ru
 $discard,site=youtu.be
 $discard,site=youtube.com
 $discard,site=zhihu.com
-
-$discard,site=adl.org
-$discard,site=splcenter.org
-$discard,site=antihate.ca
-$discard,site=myjewishlearning.com
-$discard,site=jewishvirtuallibrary.org 
-$discard,site=jwa.org
-$discard,site=jstor.org
-$discard,site=chabad.org
-$discard,site=kabbalah.info
-$discard,site=holocaustremembrance.com
 
 
 $boost=2,site=rumble.com

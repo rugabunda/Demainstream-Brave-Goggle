@@ -424,25 +424,15 @@ $discard,site=youtube.com
 $discard,site=zhihu.com
 
 
-$boost=2,site=rumble.com
-$boost=2,site=bitchute.com
-$boost=2,site=odysee.com
-$boost=2,site=gab.com
-$boost=2,site=zerohedge.com
-$boost=2,site=strategic-culture.org
-$boost=2,site=mondoweiss.net
-$boost=2,site=davidduke.com
-$boost=2,site=rense.com
-$boost=2,site=truthseeker.co.uk
-$boost=2,site=bannedonamazon.org
-$boost=2,site=risingtidefoundation.net
-$boost=2,site=renegadetribune.com
+
+$boost=1,site=eff.org
 $boost=2,site=21stcenturywire.com
 $boost=2,site=activistpost.com
 $boost=2,site=allsides.com
 $boost=2,site=americasfrontlinenews.com
 $boost=2,site=antiwar.com
 $boost=2,site=asiatimes.com
+$boost=2,site=bannedonamazon.org
 $boost=2,site=beforeitsnews.com
 $boost=2,site=bretweinstein.net
 $boost=2,site=canadianpatriot.org
@@ -455,6 +445,7 @@ $boost=2,site=consortiumnews.com
 $boost=2,site=corbettreport.com
 $boost=2,site=culturewars.com
 $boost=2,site=dailystormer.in
+$boost=2,site=davidduke.com
 $boost=2,site=davidicke.com
 $boost=2,site=educateinspirechange.org
 $boost=2,site=electronicintifada.net
@@ -468,6 +459,7 @@ $boost=2,site=kevinbarrett.heresycentral.is
 $boost=2,site=lifesitenews.com
 $boost=2,site=mediaroots.org
 $boost=2,site=mintpressnews.com
+$boost=2,site=mondoweiss.net
 $boost=2,site=motherjones.com
 $boost=2,site=naturalnews.com
 $boost=2,site=newsbud.com
@@ -479,19 +471,23 @@ $boost=2,site=propublica.org
 $boost=2,site=realclearhealth.com
 $boost=2,site=rebelnews.com
 $boost=2,site=reclaimthenet.org
+$boost=2,site=renegadetribune.com
+$boost=2,site=rense.com
 $boost=2,site=revealnews.org
 $boost=2,site=revolution.news
 $boost=2,site=richieallen.co.uk
+$boost=2,site=risingtidefoundation.net
 $boost=2,site=rt.com
 $boost=2,site=rubinreport.com
 $boost=2,site=sciencebasedmedicine.org
+$boost=2,site=sgtreport.com
 $boost=2,site=shift.is
 $boost=2,site=shtfplan.com
 $boost=2,site=smoking-mirrors.com
 $boost=2,site=southfront.org
-$boost=2,site=sgtreport.com
 $boost=2,site=sputniknews.com
 $boost=2,site=stormcloudsgathering.com
+$boost=2,site=strategic-culture.org
 $boost=2,site=tass.com
 $boost=2,site=telesurenglish.net
 $boost=2,site=thecountersignal.org
@@ -509,6 +505,7 @@ $boost=2,site=trueactivist.com
 $boost=2,site=trunews.com
 $boost=2,site=truthinmedia.com
 $boost=2,site=truthout.org
+$boost=2,site=truthseeker.co.uk
 $boost=2,site=truthstreammedia.com
 $boost=2,site=unlimitedhangout.com
 $boost=2,site=unz.com
@@ -521,8 +518,8 @@ $boost=2,site=wattsupwiththat.com
 $boost=2,site=wearechange.org
 $boost=2,site=westernstandard.news
 $boost=2,site=whowhatwhy.org
+$boost=2,site=zerohedge.com
 $boost=2,site=zippittydodah.com
-$boost=1,site=eff.org
 
 /en/$boost=2,site=farsnews.ir
 /r/conspiracy/$boost=3,site=www.reddit.com

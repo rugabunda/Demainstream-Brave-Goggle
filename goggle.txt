@@ -3,6 +3,9 @@
 ! public: true
 ! author: Ruga Bunda
 
+$discard,site=wilsoncenter.org
+$discard,site=houstonchronicle.com
+$discard,site=blogs.lse.ac.uk
 $discard,site=politifact.com
 $discard,site=france24.com
 $discard,site=quora.com

@@ -1,7 +1,7 @@
 ! name: De-Mainstream
 ! description: de-mainstream your search results | Boost Alt-News
 ! public: true
-! author: True News
+! author: Ruga Bunda
 
 $discard,site=aaplimg.com
 $discard,site=abc.net.au

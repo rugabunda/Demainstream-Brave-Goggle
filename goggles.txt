@@ -278,7 +278,6 @@ $discard,site=politicususa.com
 $discard,site=pornhub.com
 $discard,site=prageru.com
 $discard,site=progressivevoicesofiowa.com
-$discard,site=projectveritas.com
 $discard,site=propublica.org
 $discard,site=psmag.com
 $discard,site=qq.com

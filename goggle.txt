@@ -420,7 +420,6 @@ $discard,site=yalemedicine.org
 $discard,site=yandex.net
 $discard,site=yandex.ru
 $discard,site=youtu.be
-$discard,site=youtube.com
 $discard,site=zhihu.com
 
 $boost=2,site=gab.com

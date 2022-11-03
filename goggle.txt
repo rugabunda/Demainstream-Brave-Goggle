@@ -1,5 +1,5 @@
 ! name: De-Mainstream Goggle | Boost Alt-News
-! description: de-mainstream your search results | Boost Alt-News
+! description: De-mainstream your search results, Boost Alt-News: https://github.com/rugabunda/Demainstream-Brave-Goggle/edit/main/goggle.txt
 ! public: true
 ! author: Ruga Bunda
 
@@ -428,6 +428,15 @@ $boost=2,site=rumble.com
 $boost=2,site=bitchute.com
 $boost=2,site=odysee.com
 $boost=2,site=gab.com
+$boost=2,site=zerohedge.com
+$boost=2,site=strategic-culture.org
+$boost=2,site=mondoweiss.net
+$boost=2,site=davidduke.com
+$boost=2,site=rense.com
+$boost=2,site=truthseeker.co.uk
+$boost=2,site=bannedonamazon.org
+$boost=2,site=risingtidefoundation.net
+$boost=2,site=renegadetribune.com
 $boost=2,site=21stcenturywire.com
 $boost=2,site=activistpost.com
 $boost=2,site=allsides.com

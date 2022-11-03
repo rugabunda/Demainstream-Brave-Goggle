@@ -3,6 +3,8 @@
 ! public: true
 ! author: Ruga Bunda
 
+$discard,site=politifact.com
+$discard,site=france24.com
 $discard,site=quora.com
 $discard,site=aaplimg.com
 $discard,site=abc.net.au

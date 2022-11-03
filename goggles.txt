@@ -307,7 +307,6 @@ $discard,site=s-nbcnews.com
 $discard,site=socialistalternative.org
 $discard,site=spectator.org
 $discard,site=splcenter.org
-$discard,site=splcenter.org
 $discard,site=spokesman.com
 $discard,site=startribune.com
 $discard,site=state.gov

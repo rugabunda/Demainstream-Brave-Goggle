@@ -422,6 +422,8 @@ $boost=2,site=rumble.com
 $boost=2,site=bitchute.com
 $boost=2,site=odysee.com
 $boost=2,site=gab.com
+$boost=2,site=westernstandard.news
+$boost=2,site=lifesitenews.com
 $boost=2,site=21stcenturywire.com
 $boost=2,site=activistpost.com
 $boost=2,site=allsides.com

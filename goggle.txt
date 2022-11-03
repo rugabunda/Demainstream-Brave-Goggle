@@ -3,6 +3,7 @@
 ! public: true
 ! author: Ruga Bunda
 
+$discard,site=cepa.org
 $discard,site=whitehouse.gov
 $discard,site=gzeromedia.com
 $discard,site=wilsoncenter.org

@@ -3,6 +3,8 @@
 ! public: true
 ! author: Ruga Bunda
 
+$discard,site=whitehouse.gov
+$discard,site=gzeromedia.com
 $discard,site=wilsoncenter.org
 $discard,site=houstonchronicle.com
 $discard,site=blogs.lse.ac.uk

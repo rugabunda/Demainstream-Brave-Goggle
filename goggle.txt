@@ -423,9 +423,12 @@ $discard,site=youtu.be
 $discard,site=youtube.com
 $discard,site=zhihu.com
 
-
-
-$boost=1,site=eff.org
+$boost=2,site=gab.com
+$boost=2,site=bitchute.com
+$boost=2,site=odysee.com
+$boost=2,site=rumble.com
+$boost=2,site=whtt.org
+$boost=2,site=eff.org
 $boost=2,site=21stcenturywire.com
 $boost=2,site=activistpost.com
 $boost=2,site=allsides.com

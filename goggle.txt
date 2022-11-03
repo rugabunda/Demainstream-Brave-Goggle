@@ -427,6 +427,7 @@ $boost=2,site=gab.com
 $boost=2,site=bitchute.com
 $boost=2,site=odysee.com
 $boost=2,site=rumble.com
+$boost=2,site=richardmedhurst.com
 $boost=2,site=whtt.org
 $boost=2,site=eff.org
 $boost=2,site=21stcenturywire.com
@@ -528,3 +529,13 @@ $boost=2,site=zippittydodah.com
 /r/conspiracy/$boost=3,site=www.reddit.com
 /NEW/$boost=2,site=whatreallyhappened.com
 /news/$boost=2,site=stewpeters.com
+
+/user/TYTComedy/videos^$boost=3,site=youtube.com
+/user/WambraRadio/videos^$boost=3,site=youtube.com
+/c/TheKatieHalperShow/videos^$boost=3,site=youtube.com
+/channel/UCXSNuMQCrY2JsGvPaYUc3xA/videos^$boost=3,site=youtube.com
+/c/TheDivewithJacksonHinkle/videos^$boost=3,site=youtube.com
+/c/RedactedNews/videos^$boost=3,site=youtube.com
+/c/BehindTheHeadlines/videos^$boost=3,site=youtube.com
+/channel/UCEXR8pRTkE2vFeJePNe9UcQ/videos^$boost=3,site=youtube.com
+/c/RichardMedhurst/videos^$boost=3,site=youtube.com

@@ -1,4 +1,4 @@
-! name: De-Mainstream
+! name: De-Mainstream Goggle
 ! description: de-mainstream your search results | Boost Alt-News
 ! public: true
 ! author: Ruga Bunda

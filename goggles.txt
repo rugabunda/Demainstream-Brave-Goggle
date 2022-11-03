@@ -442,6 +442,7 @@ $boost=2,site=educateinspirechange.org
 $boost=2,site=globalresearch.ca
 $boost=2,site=greenmedinfo.com
 $boost=2,site=humansbefree.com
+$boost=2,informationclearinghouse.info
 $boost=2,site=judaism.is
 $boost=2,site=kevinbarrett.heresycentral.is
 $boost=2,site=lifesitenews.com

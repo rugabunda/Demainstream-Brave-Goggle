@@ -449,8 +449,6 @@ $boost=2,site=beforeitsnews.com
 $boost=2,site=blacklistednews.com
 $boost=2,site=blog.nomorefakenews.com
 $boost=2,site=brandonturbeville.com
-$boost=2,site=breakingdefense.com
-$boost=2,site=bretweinstein.net
 $boost=2,site=brownstone.org
 $boost=2,site=canadianpatriot.org
 $boost=2,site=censored.news
@@ -594,6 +592,8 @@ $boost=2,site=zippittydodah.com
 /r/conspiracy^$boost=3,site=www.reddit.com
 /NEW^$boost=2,site=whatreallyhappened.com
 /news^$boost=2,site=stewpeters.com
+/show/4rOoJ6Egrf8K2IrywzwOMk^$boost=2,site=open.spotify.com
+
 
 /user/TYTComedy/videos^$boost=3,site=youtube.com
 /user/WambraRadio/videos^$boost=3,site=youtube.com

@@ -524,10 +524,10 @@ $boost=2,site=whowhatwhy.org
 $boost=2,site=zerohedge.com
 $boost=2,site=zippittydodah.com
 
-/en/$boost=2,site=farsnews.ir
-/r/conspiracy/$boost=3,site=www.reddit.com
-/NEW/$boost=2,site=whatreallyhappened.com
-/news/$boost=2,site=stewpeters.com
+/en^$boost=2,site=farsnews.ir
+/r/conspiracy^$boost=3,site=www.reddit.com
+/NEW^$boost=2,site=whatreallyhappened.com
+/news^$boost=2,site=stewpeters.com
 
 /user/TYTComedy/videos^$boost=3,site=youtube.com
 /user/WambraRadio/videos^$boost=3,site=youtube.com

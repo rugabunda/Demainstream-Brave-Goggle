@@ -344,7 +344,6 @@ $discard,site=theguardian.tv
 $discard,site=thehill.com
 $discard,site=thehindu.com
 $discard,site=theimaginativeconservative.org
-$discard,site=theintercept.com
 $discard,site=thejustice.org
 $discard,site=thelibertarianrepublic.com
 $discard,site=themaneater.com

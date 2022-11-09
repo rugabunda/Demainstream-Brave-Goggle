@@ -526,6 +526,7 @@ $boost=2,site=rt.com
 $boost=2,site=rubinreport.com
 $boost=2,site=scheerpost.com
 $boost=2,site=sciencebasedmedicine.org
+$boost=2,site=scottritterextra.com
 $boost=2,site=sgtreport.com
 $boost=2,site=shift.is
 $boost=2,site=shtfplan.com

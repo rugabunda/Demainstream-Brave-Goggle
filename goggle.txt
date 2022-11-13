@@ -484,12 +484,14 @@ $boost=2,site=genocide.news
 $boost=2,site=globalresearch.ca
 $boost=2,site=greenmedinfo.com
 $boost=2,site=henrymakow.com
+$boost=2,site=ijvcanada.org
 $boost=2,site=humansbefree.com
 $boost=2,site=informationclearinghouse.info
 $boost=2,site=informationliberation.com
 $boost=2,site=infowars.com
 $boost=2,site=intelnews.org
 $boost=2,site=israelpalestinenews.org
+$boost=2,site=jewishvoiceforpeace.org
 $boost=2,site=jimmydorecomedy.com
 $boost=2,site=judaism.is
 $boost=2,site=kevinbarrett.heresycentral.is

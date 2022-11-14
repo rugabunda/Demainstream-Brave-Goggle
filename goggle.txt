@@ -3,6 +3,11 @@
 ! public: true
 ! author: Ruga Bunda
 
+$discard,site=worldbank.org
+$discard,site=globalchange.gov
+$discard,site=climateactionnetwork.ca
+$discard,site=climate.nasa.gov
+$discard,site=worldwildlife.org
 $discard,site=cepa.org
 $discard,site=whitehouse.gov
 $discard,site=gzeromedia.com

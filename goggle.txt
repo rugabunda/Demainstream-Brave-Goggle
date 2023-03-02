@@ -427,15 +427,13 @@ $discard,site=youtu.be
 $discard,site=zhihu.com
 
 
-
-
-
 $boost=2,site=gab.com
 $boost=2,site=bitchute.com
 $boost=2,site=odysee.com
 $boost=2,site=rumble.com
 $boost=2,site=brighteon.com
 
+$boost=2,site=dailyveracity.com
 $boost=2,site=codepink.org
 $boost=2,site=samidoun.net
 $boost=2,site=21stcenturywire.com

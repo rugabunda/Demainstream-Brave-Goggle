@@ -426,7 +426,7 @@ $discard,site=yandex.ru
 $discard,site=youtu.be
 $discard,site=zhihu.com
 
-
+$boost=2,site=bcrise.com
 $boost=2,site=gab.com
 $boost=2,site=bitchute.com
 $boost=2,site=odysee.com
